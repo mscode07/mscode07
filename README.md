@@ -21,10 +21,10 @@
 <p align="left">
 <a href="https://codepen.io/msabhi7777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="msabhi7777" height="30" width="40" /></a>
 <a href="https://twitter.com/msabhi7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="msabhi7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhishek thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek thakur" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/msabhi7777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="msabhi7777" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22124599" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22124599" height="30" width="40" /></a>
 <a href="https://codesandbox.com/msabhii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="msabhii" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@msabhithakur7777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@msabhithakur7777" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/msabhithakur7777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="msabhithakur7777" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/msabhithakur7777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="msabhithakur7777" height="30" width="40" /></a>
 </p>
 
