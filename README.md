@@ -41,7 +41,7 @@
 
 <img align="center" alt="Coding" width="100%" height="500" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msabhii&show_icons=true&locale=en&layout=compact" alt="msabhii"   height="200"  /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msabhii&show_icons=true&locale=en&layout=compact" alt="msabhii"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msabhii&show_icons=true&locale=en" alt="msabhii" /></p>
 
