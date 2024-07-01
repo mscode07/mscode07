@@ -1,10 +1,9 @@
-
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center"> Hii 👋, I'm Abhi</h1>
 <h2 align="center"> A passionate Developer from INDIA </h2>
-
 [![An image of @msabhi7777's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/msabhi7777)](https://holopin.io/@msabhi7777)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msabhii&label=Profile%20views&color=0e75b6&style=flat" alt="msabhii" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msabhii" alt="msabhii" /></a> </p>
 
