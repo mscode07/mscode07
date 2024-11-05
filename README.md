@@ -1,5 +1,5 @@
 
-[comment]: <>(![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))
+
 <h1 align="center"> Hii 👋, I'm Abhi</h1>
 <h2 align="center"> A passionate Developer from INDIA </h2>
 
