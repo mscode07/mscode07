@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msabhii" alt="msabhii" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/msabhi7" target="blank"><img src="https://img.shields.io/twitter/follow/msabhi7?logo=twitter&style=for-the-badge" alt="msabhi7" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mscode07" target="blank"><img src="https://img.shields.io/twitter/follow/mscode07?logo=twitter&style=for-the-badge" alt="mscode07" /></a> </p>
 
 
 
