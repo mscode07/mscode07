@@ -1,5 +1,3 @@
-
-
 <h1 align="center"> Hii 👋, I'm mscode</h1>
 <h2 align="center"> A passionate Developer from INDIA </h2>
 
