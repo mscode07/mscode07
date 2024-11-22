@@ -2,9 +2,9 @@
 <h2 align="center"> A passionate Developer from INDIA </h2>
 
 [![An image of @msabhi7777's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/msabhi7777)](https://holopin.io/@msabhi7777)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=msabhii&label=Profile%20views&color=0e75b6&style=flat" alt="msabhii" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=msabhii&label=Profile%20views&color=0e75b6&style=flat" alt="mscode" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msabhii" alt="msabhii" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mscode07" alt="mscode07" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mscode07" target="blank"><img src="https://img.shields.io/twitter/follow/mscode07?logo=twitter&style=for-the-badge" alt="mscode07" /></a> </p>
 
