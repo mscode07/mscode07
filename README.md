@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
-- 💬 Ask me about **react,javaScript,Python**
+- 💬 Ask me about **react, javaScript, Python**
 
 - 📫 How to reach me **msabhithakur7777@gmail.com**
 
