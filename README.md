@@ -22,6 +22,7 @@
 - ⚡ Fun fact **I'm a good Developer** 
  
 ## 🌐 Socials:
+[![Medium](https://img.shields.io/badge/medium-%230077B5.svg?logo=medium&logoColor=white)](https://medium.com/@mscode07)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mscode07) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mscode07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/msabhi7777) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22124599) 
 
 # 💻 Tech Stack: 
