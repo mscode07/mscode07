@@ -11,14 +11,12 @@
 
 
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently learning **RUST Development**
 
-- 💬 Ask me about **react, javaScript, Python**
+- 💬 Ask me about **react, javaScript, Python, RUST**
 
-- 📫 How to reach me **msabhithakur7777@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EnMAdI8t8Idmd_Shzj_BB6ma9Bcm6suG/view?usp=drive_link](https://drive.google.com/file/d/1EnMAdI8t8Idmd_Shzj_BB6ma9Bcm6suG/view?usp=drive_link)
-
+- 📫 How to reach me **msabhithakur7777@gmail.com, https://x.com/mscode07**
+  
 - ⚡ Fun fact **I'm a good Developer** 
  
 ## 🌐 Socials:
